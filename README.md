@@ -80,24 +80,30 @@
 </p>
 
 ---
+## 📌 Impact & Contributions
 
-### Featured projects
-
-| Project | Stack | Status |
-|---|---|---|
-| 📊 Marketing Performance Dashboard | Power BI | 🚧 Building |
-| 📈 Campaign Tracker & ROI Analyzer | Excel | 🚧 Building |
-| 🧠 SQL Customer Segmentation | SQL | 🚧 Building |
-| 🌐 Personal Portfolio Website | HTML / CSS / JS | 🚧 Building |
+- Improved campaign tracking accuracy through structured analytics implementation  
+- Built dashboards to support weekly business reporting and decision-making  
+- Analyzed CRM lead data to evaluate funnel performance and conversion trends  
+- Supported marketing optimization using data-driven insights  
 
 ---
 
-### Current focus
+## 📊 Dashboard Capabilities
 
-→ Advanced CRM workflows and automation  
-→ Marketing analytics dashboards  
-→ SQL for real-world business insights  
-→ Building a strong portfolio of projects  
+- Interactive filters and drill-down analysis  
+- KPI tracking (Revenue, Leads, Conversion Rate)  
+- Campaign and channel performance comparison  
+- Weekly and monthly trend analysis  
+
+---
+
+## ⚙️ Work Environment
+
+- CRM systems for lead and campaign management  
+- Marketing platforms for ad performance tracking  
+- Structured and unstructured data sources  
+- Collaboration with stakeholders for reporting needs  
 
 ---
 
