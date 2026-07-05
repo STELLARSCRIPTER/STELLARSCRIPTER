@@ -24,7 +24,7 @@
     <img src="https://img.icons8.com/color/48/hubspot.png" alt="hubspot" width="40" height="40"/>
   </a>
   <a href="https://dynamics.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-dynamics-365.svg" alt="dynamics365" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/microsoft-dynamics-365.png" alt="microsoft dynamics 365" width="40" height="40"/>
   </a>
 </p>
 
