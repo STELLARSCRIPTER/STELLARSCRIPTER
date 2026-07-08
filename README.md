@@ -51,6 +51,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
   </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/?size=100&id=36440&format=png&color=000000" alt="sql" width="40" height="40"/>
+  </a>
   <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/power-bi.png" alt="power bi" width="40" height="40"/>
   </a>
@@ -94,8 +97,8 @@
 - Interactive filters and drill-down analysis  
 - KPI tracking (Revenue, Leads, Conversion Rate)  
 - Campaign and channel performance comparison  
-- Weekly and monthly trend analysis  
-
+- Weekly and monthly trend analysis
+- Live data connection (DirectQuery, API integration, cloud data sources)
 ---
 
 ## ⚙️ Work Environment
@@ -109,4 +112,4 @@
 
 ### Reach me
 
-📫 **Email:** [sanjaykaushik535@gmail.com](mailto:sanjaykaushik535@gmail.com)
+📫 **Email:** [sanjaykaushik535@gmail.com](mailto:sanjaykaushik535@gmail.com) 
